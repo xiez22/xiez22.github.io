@@ -469,6 +469,17 @@ a:hover {
   color: #15803D;
 }
 
+.pub-link-btn.demo-btn {
+  color: #966315;
+  background: #fdfdf0;
+  border-color: #f7edbb;
+}
+.pub-link-btn.demo-btn:hover {
+  background: #fafcdc;
+  border-color: #c9b36c;
+  color: #71450d;
+}
+
 /* Google Scholar CTA */
 .scholar-cta {
   margin-top: 1.75rem;
